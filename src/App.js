@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reloa d.
-          Edit <code>src/App.js</code> and save to reloa d.
+          Edit <code>src/App.js</code> and save to reloa d multiple container image.
         </p>
         <a
           className="App-link"
