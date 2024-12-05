@@ -1,4 +1,3 @@
----
 
 This repository documents my journey of learning **Docker**, a platform for developing, shipping, and running applications using containerization. It includes practical examples, projects, and insights gained during the learning process. The goal is to build a comprehensive understanding of Docker's capabilities and its role in modern development workflows.
 
@@ -63,12 +62,3 @@ I’m **Ankit**, a MERN Stack Developer and AWS enthusiast, exploring the power 
 
 - **GitHub**: [imankii01](https://github.com/imankii01)
 - **Hashnode Blog**: [imankit.hashnode.dev](https://imankit.hashnode.dev)
-
----
-
-## License
-
-This repository is licensed under the **MIT License**. Feel free to use and share it for learning and development purposes.
-```
-
----
