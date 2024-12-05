@@ -1,10 +1,5 @@
 ---
 
-## README.md
-
-```markdown
-# Docker Learning Repository
-
 This repository documents my journey of learning **Docker**, a platform for developing, shipping, and running applications using containerization. It includes practical examples, projects, and insights gained during the learning process. The goal is to build a comprehensive understanding of Docker's capabilities and its role in modern development workflows.
 
 ---
